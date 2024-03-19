@@ -138,4 +138,4 @@ Based on `bio-yeast` data and  `plotly`.
 
 - _Venkat Ramnan K_
 
-- _Subramnanya Keshavamurthy_
+- _Subramanya Keshavamurthy_
